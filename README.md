@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kundankrgupta1&label=Profile%20views&color=0e75b6&style=flat" alt="kundankrgupta1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kundankrgupta1" alt="kundankrgupta1" /></a> </p>
-
 - 🔭 I’m currently working on [my portfolio](https://github.com/kundankrgupta1/me.kundan)
 
 - 🌱 I’m currently learning **Full Stack Web Developer**
