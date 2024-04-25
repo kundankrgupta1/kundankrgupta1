@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, I'm KUNDAN KUMAR GUPTA</h1>
-<h3 align="center">Aspiring Full Stack Web Developer</h3>
-
+<p align="center">👋 Aspiring full-stack web developer | Student at Masai School 🎓 | Passionate about coding and building meaningful web applications 💻</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kundankrgupta1&label=Profile%20views&color=0e75b6&style=flat" alt="kundankrgupta1" /> </p>
 
 - 🔭 I’m currently working on [my portfolio](https://github.com/kundankrgupta1/me.kundan)
 
-- 🌱 I’m currently learning **Full Stack Web Developer**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kundankrgupta1/me.kundan](https://github.com/kundankrgupta1/me.kundan)
+- 👨‍💻 All of my projects are available at [all-projects](https://github.com/kundankrgupta1/me.kundan)
 
 - 💬 Ask me about **Python | JavaScript | React.js | Node.js**
 
-- 📫 How to reach me **kundankrgupta@outlook.com**
+- 📫 How to reach me [Email me](mailto:kundankrgupta@outlook.com)
 
-- 📄 Know about my experiences [http://127.0.0.1:5501/docs/kkgresume.pdf](http://127.0.0.1:5501/docs/kkgresume.pdf)
+- 📄 Know about my experiences [resume](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=662a1e099ae9ae3f6894e766)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,8 +20,39 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kundankrgupta1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kundankrgupta1/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> </p>
+<h1 align="left">🎯 Tech Skills 🎯</h1>
+<p align="left">
+  <img alt="Static Badge" src="https://img.shields.io/badge/REACT%20JS-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="40">
+  <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPTS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40">
+  <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40">
+  <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" height="40">
+  <img alt="Static Badge" src="https://img.shields.io/badge/BABEL-F9DC3E?style=for-the-badge&logo=babel&logoColor=black" height="40">
+  <img alt="Static Badge" src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40">
+  <img alt="Static Badge" src="https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwind%20css&logoColor=black" height="40">
+  <img alt="Static Badge" src="https://img.shields.io/badge/CHAKRA%20UI-319795?style=for-the-badge&logo=chakra%20ui&logoColor=white" height="40">
+  <img alt="Static Badge" src="https://img.shields.io/badge/REDUX-764ABC?style=for-the-badge&logo=redux" width="130" height="40">
+  <img alt="Static Badge" src="https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white" height="40">
+  <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="40">
+  <img alt="Static Badge" src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express" height="40">
+  <img alt="Static Badge" src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white" height="40">
+  <img alt="Static Badge" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm" height="40">
+</p>
+
+<h1 align="left">🛠️ Tech Tools 🛠️</h1>
+<p align="left">
+  <img alt="Static Badge" src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="40">
+  <img alt="Static Badge" src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="40">
+  <img alt="Static Badge" src="https://img.shields.io/badge/replit-F26207?style=for-the-badge&logo=replit&logoColor=white" height="40">
+  <img alt="Static Badge" src="https://img.shields.io/badge/codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" height="40">
+<img alt="Static Badge" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" height="40">
+<img alt="Static Badge" src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" height="40">
+<img alt="Static Badge" src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="40">
+<img alt="Static Badge" src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=black" height="40">
+<img alt="Static Badge" src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" height="40">
+<img alt="Static Badge" src="https://img.shields.io/badge/codesandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white" height="40">
+<img alt="Static Badge" src="https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" height="40">
+
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kundankrgupta1&show_icons=true&locale=en&layout=compact" alt="kundankrgupta1" /></p>
 
