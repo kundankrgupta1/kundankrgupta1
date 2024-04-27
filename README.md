@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [all-projects](https://github.com/kundankrgupta1/me.kundan)
+- 👨‍💻 All of my projects are available at [all-projects](https://github.com/kundankrgupta1?tab=repositories)
 
 - 💬 Ask me about **Python | JavaScript | React.js | Node.js**
 
