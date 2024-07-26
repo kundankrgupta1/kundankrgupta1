@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm KUNDAN KUMAR GUPTA</h1>
-<p align="center">👋 Aspiring full-stack web developer | Student at Masai School 🎓 | Passionate about coding and building meaningful web applications 💻</p>
+<p align="center">Dynamic full-stack web developer skilled in JavaScript and
+MERN stack (MongoDB, Express.js, React.js, Node.js).
+Expertise in designing scalable APIs and frontend components.
+Adept at using Generative AI and quickly adapting to new tech
+stacks. Dedicated to enhancing software quality through
+collaboration and continuous learning.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kundankrgupta1&label=Profile%20views&color=0e75b6&style=flat" alt="kundankrgupta1" /> </p>
 
 - 🔭 I’m currently working on [my portfolio](https://github.com/kundankrgupta1/me.kundan)
