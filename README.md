@@ -6,7 +6,7 @@ Adept at using Generative AI and quickly adapting to new tech
 stacks. Dedicated to enhancing software quality through
 collaboration and continuous learning.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kundankrgupta1&label=Profile%20views&color=0e75b6&style=flat" alt="kundankrgupta1" /> </p>
-
+<img src="https://raw.githubusercontent.com/kundankrgupta1/media/main/assets/thoughtworks-gif_dribbble.gif" alt="coding" width="400" align="right">
 - 🔭 I’m currently working on [my portfolio](https://github.com/kundankrgupta1/me.kundan)
 
 - 🌱 I’m currently learning **Full Stack Web Development**
