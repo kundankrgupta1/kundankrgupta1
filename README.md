@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm KUNDAN KUMAR GUPTA</h1>
-<p align="center">Dynamic full-stack web developer skilled in JavaScript and
+<p align="center">Dynamic full-stack developer skilled in JavaScript and
 MERN stack (MongoDB, Express.js, React.js, Node.js).
-Expertise in designing scalable APIs and frontend components.
+Expertise in designing scalable APIs and front-end components.
 Adept at using Generative AI and quickly adapting to new tech
 stacks. Dedicated to enhancing software quality through
 collaboration and continuous learning.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kundankrgupta1&label=Profile%20views&color=0e75b6&style=flat" alt="kundankrgupta1" /> </p>
 <img src="https://raw.githubusercontent.com/kundankrgupta1/media/main/assets/thoughtworks-gif_dribbble.gif" alt="coding" width="400" align="right">
-- 🔭 I’m currently working on [my portfolio](https://github.com/kundankrgupta1/me.kundan)
+- 🔭 I’m currently working on [my-portfolio](https://github.com/kundankrgupta1/me.kundan)
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Python | DSA | SQL | .NET**
 
 - 👨‍💻 All of my projects are available at [all-projects](https://github.com/kundankrgupta1?tab=repositories)
 
@@ -17,7 +17,7 @@ collaboration and continuous learning.</p>
 
 - 📫 How to reach me [Email me](mailto:kundankrgupta@outlook.com)
 
-- 📄 Know about my experiences [resume](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=662a1e099ae9ae3f6894e766)
+- 📄 Know about my experiences [resume](https://kundanportfolio1.netlify.app/assets/kundan_kumar_gupta-CRtvdUUR.pdf)
 
 <h3 align="left">📞Connect with me:</h3>
 <p align="left">
