@@ -17,8 +17,6 @@ collaboration and continuous learning.</p>
 
 - 📫 How to reach me [Email me](mailto:kundankrgupta@outlook.com)
 
-- 📄 Know about my experiences [resume](https://kundanportfolio1.netlify.app/assets/kundan_kumar_gupta-CRtvdUUR.pdf)
-
 <h3 align="left">📞Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/kundanraazg1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/kundanraazg1" height="30" width="40" /></a>
